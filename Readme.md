@@ -2,7 +2,7 @@
 
 **ABSTRACT:**
 
-A region-based Deep Convolutional Neural Network framework is
+ A region-based Deep Convolutional Neural Network framework is
 
 provided in this paper for learning document structure. Effective
 
