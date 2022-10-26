@@ -2,17 +2,7 @@
 
 **ABSTRACT:**
 
- A region-based Deep Convolutional Neural Network framework is
-
-provided in this paper for learning document structure. Effective
-
-region-based classifier training and ensembling for document image
-
-classification are two key contributions of this work. By considering
-
-the RVL-CDIP dataset as a reference and the train\_csv file, the 16,000
-
-images are classified into 16 classes (letter, email, invoice,
+ A region-based Deep Convolutional Neural Network framework is provided in this paper for learning document structure. Effective region-based classifier training and ensembling for document image classification are two key contributions of this work. By considering the RVL-CDIP dataset as a reference and the train\_csv file, the 16,000 images are classified into 16 classes (letter, email, invoice,
 
 advertisement, etc). Hence the images are categorized based on their
 
